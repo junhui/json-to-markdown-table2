@@ -1,13 +1,13 @@
-##Install
+## Install
 ```
 npm install json-to-markdown-table2
 ```
 
-##Info
+## Info
 
 `json-to-markdown-table2` convert a JSON object to markdown table format. this component depend on (json-to-table)[https://github.com/Growmies/json-to-table], just convert the format to markdown syntax. 
 
-##Usage
+## Usage
 ```Javascript
 const jsonToMarkdown2 = require('json-to-markdown-table2');
 
@@ -40,7 +40,7 @@ console.log(tabled2);
 ```
 
 
-##Options
+## Options
 Some available options to pass in as the second argument are as follows.  
 Look at the tests to see all of these options in action.  
 ```

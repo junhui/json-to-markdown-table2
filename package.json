@@ -1,0 +1,21 @@
+{
+  "name": "json-to-markdown-table2",
+  "version": "1.0.0",
+  "description": "convert JSON object to markdown table",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "markdown",
+    "table",
+    "json",
+    "converter",
+    "transform"
+  ],
+  "author": "junhui",
+  "license": "ISC",
+  "dependencies": {
+    "json-to-table": "^4.1.0"
+  }
+}

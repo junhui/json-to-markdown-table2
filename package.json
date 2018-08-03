@@ -1,10 +1,14 @@
 {
   "name": "json-to-markdown-table2",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "convert JSON object to markdown table",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/junhui/json-to-markdown-table2.git"
   },
   "keywords": [
     "markdown",
